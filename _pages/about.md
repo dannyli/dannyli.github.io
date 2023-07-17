@@ -10,9 +10,9 @@ redirect_from:
 
 I am a Researcher at the Automatic Control research group, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
 
-My main research focus is on the development of efficient energy conversion processes using energy storage systems for power grid and transportation sectors.
+My main research focus is on the development of efficient energy conversion processes using energy storage systems for modern power grids and electrified transportation systems.
 
-I have authored over 80 relevant peer-reviewed papers published in top-tier journals and prestigious conferences. All the papers are in the areas of modeling, management, and control of energy storage and energy conversion systems for modern electricity grid and electrified transportation and systems. 
+I have authored over 80 relevant peer-reviewed papers published in top-tier journals and prestigious conferences. All the papers are in the areas of modeling, management, and control of energy storage and energy conversion systems. 
 
 I am a recipient of the EU Marie Skłodowska-Curie Action Individual Fellowship in 2020. This project is hosted by the Chalmers University of Technology.
 
@@ -22,7 +22,7 @@ Email: yangli [at] ieee.org; yang.li [at] chalmers.se
 
 Tel: +46 (0) 31 772 1557 
 
-Address: Horsalsvagen 11, 412 58 Gothenburg, Sweden..
+Address: Horsalsvagen 11, 412 58 Gothenburg, Sweden.
 
 
 Academic Services
@@ -31,3 +31,8 @@ Academic Services
 - Associate Editor, IEEE Transactions on Transportation Electrification (JCR Q1, IF: 6.5)
 - Associate Editor, IEEE Transactions on Energy Conversion (JCR Q1, IF: 4.8)
 - Guest Editor, Special Issue on Intelligent Energy Storage Systems, Applied Energy (Elsevier, JCR Q1, IF: 11.4)
+
+News and Updates
+------
+- July 10--14, 2023: I attended [IFAC World Congress 2023 in Yokohama, Japan](https://www.ifac2023.org/). We successfully organized an invited open track and presented two papers.
+- April 23, 2023: Our paper "Nonlinear Model Predictive Control for Residential Solar Battery Energy Management" has been accepted by IEEE Transactions on Control Systems Technology.
