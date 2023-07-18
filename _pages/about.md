@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher at the Automatic Control research group, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
+I am a Researcher at the Automatic Control research group, [Division of Systems and Control](https://www.chalmers.se/en/departments/e2/research/systems-and-control/), Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
 
 My main research focus is on the development of efficient energy conversion processes using energy storage systems for modern power grids and electrified transportation systems.
 
 I have authored over 80 relevant peer-reviewed papers published in top-tier journals and prestigious conferences. All the papers are in the areas of modeling, management, and control of energy storage and energy conversion systems. 
 
-I am a recipient of the EU Marie Skłodowska-Curie Action Individual Fellowship in 2020. This project is hosted by the Chalmers University of Technology.
+I am a recipient of the EU [Marie Skłodowska-Curie Action Individual Fellowship (MSCA-IF)](https://cordis.europa.eu/project/id/895337) in 2020.
 
 I'm open to any interest in discussion on my research area. Please contact me via:
 
