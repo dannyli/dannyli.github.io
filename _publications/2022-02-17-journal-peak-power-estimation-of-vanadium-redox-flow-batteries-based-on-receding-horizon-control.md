@@ -1,0 +1,16 @@
+---
+title: "Peak Power Estimation of Vanadium Redox Flow Batteries Based on Receding Horizon Control"
+collection: publications
+permalink: /publication/2022-02-17-journal-peak-power-estimation-of-vanadium-redox-flow-batteries-based-on-receding-horizon-control
+excerpt: 'The peak power of a vanadium redox flow battery (VRB) reflects its capability to continuously absorb or release energy. Accurate estimation of peak power is essential for the safe, reliable, and efficient operation of VRB systems, but also challenging as it is limited by various factors, such as currents, flow rates, temperature, and state of charge. This article proposes a new online model-based peak power estimation scheme for VRBs. First, the model parameters and system states are accurately estimated using the recursive least squares with forgetting and the unscented Kalman filter, respectively. Next, based on a linear time-varying VRB model and the estimated states, the peak power estimation is formulated into an optimal control problem, and the problem is solved using the receding horizon control (RHC). The influence of the predictive horizon on the estimated peak power is discussed. Finally, the effectiveness of the proposed RHC-based peak power estimation scheme is experimentally verified on a 5-kW/3-kWh VRB platform.'
+date: 2022-02-17
+venue: 'IEEE Journal of Emerging and Selected Topics in Power Electronics'
+author: Binyu Xiong, Sidi Dong, Yang Li, Jinrui Tang, Yixin Su, Hoay Beng Gooi
+paperurl: 'https://doi.org/10.1109/TCST.2023.3291540'
+citation: 'B. Xiong, S. Dong, Y. Li, J. Tang, Y. Su, and H. B. Gooi, &quot;Peak power estimation of vanadium redox flow batteries based on receding horizon control,&quot; <i>IEEE J. Emerg. Sel. Topics Power Electron.</i>, vol. 11, no. 1, pp. 154-165, Feb. 2023.'
+---
+
+The peak power of a vanadium redox flow battery (VRB) reflects its capability to continuously absorb or release energy. Accurate estimation of peak power is essential for the safe, reliable, and efficient operation of VRB systems, but also challenging as it is limited by various factors, such as currents, flow rates, temperature, and state of charge. This article proposes a new online model-based peak power estimation scheme for VRBs. First, the model parameters and system states are accurately estimated using the recursive least squares with forgetting and the unscented Kalman filter, respectively. Next, based on a linear time-varying VRB model and the estimated states, the peak power estimation is formulated into an optimal control problem, and the problem is solved using the receding horizon control (RHC). The influence of the predictive horizon on the estimated peak power is discussed. Finally, the effectiveness of the proposed RHC-based peak power estimation scheme is experimentally verified on a 5-kW/3-kWh VRB platform.
+
+[Download the Fulltext Here](https://research.chalmers.se/publication/534781/file/534781_Fulltext.pdf)
+
