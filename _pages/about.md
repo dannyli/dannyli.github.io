@@ -34,5 +34,7 @@ Academic Services
 
 News and Updates
 ------
-- July 10--14, 2023: I attended [IFAC World Congress 2023 in Yokohama, Japan](https://www.ifac2023.org/). We successfully organized an invited open track and presented two papers.
-- April 23, 2023: Our paper "Nonlinear Model Predictive Control for Residential Solar Battery Energy Management" has been accepted by IEEE Transactions on Control Systems Technology.
+- *August 19, 2023*: A new journal article titled "Ensemble nonlinear model predictive control for residential solar battery energy management," has been published in [IEEE Transactions on Control Systems Technology, volume 31, issue 5, pages 2188-2200](http://doi.org/10.1109/TCST.2023.3291540).
+- *August 10, 2023*: A new journal article titled "Nonlinear inversion-based output tracking control for battery fast charging," has been accepted for publication in IEEE Transactions on Control Systems Technology.
+- *July 10--14, 2023*: I attended [IFAC World Congress 2023 in Yokohama, Japan](https://www.ifac2023.org/). We successfully organized an invited open track and presented two papers.
+- *April 23, 2023*: Our paper "Nonlinear Model Predictive Control for Residential Solar Battery Energy Management" has been accepted by IEEE Transactions on Control Systems Technology.
