@@ -34,8 +34,11 @@ Academic Services
 
 News and Updates
 ------
-- **August 30, 2023**: A new journal article titled "Model optimization of a high-power commercial PEMFC system via an improved grey wolf optimization method," has been published in [Fuel, Volume 357, Part A, Article Number 129589](http://doi.org/10.1016/j.fuel.2023.129589).
-- **August 19, 2023**: A new journal article titled "Ensemble nonlinear model predictive control for residential solar battery energy management," has been published in [IEEE Transactions on Control Systems Technology, volume 31, issue 5, pages 2188-2200](http://doi.org/10.1109/TCST.2023.3291540).
-- **August 10, 2023**: A new journal article titled "Nonlinear inversion-based output tracking control for battery fast charging," has been accepted for publication in IEEE Transactions on Control Systems Technology.
-- **July 10--14, 2023**: I attended [IFAC World Congress 2023 in Yokohama, Japan](https://www.ifac2023.org/). We successfully organized an invited open track and presented two papers.
+- **September 4--8, 2023**: I attended [EPE'23 ECCE Europe](https://epe2023.com/) in Aalborg, Denmark. We organized a tutorial "[Intelligent BMS](https://epe2023.com/wp-content/uploads/EPE23_TUT_PROP_14_Remus_TEODORESCU_Intelligent-BMS.pdf)" on September 4, 2023. This tutorial is collaborated with Aalborg University and RWTH Aachen  University.
+- **August 30, 2023**: The journal article titled "Nonlinear inversion-based output tracking control for battery fast charging" accepted by IEEE Transactions on Control Systems Technology (TCST) has been in [early access at IEEE Xplorer](http://doi.org/10.1109/TCST.2023.3306240).
+- **August 30, 2023**: A journal article titled "Model optimization of a high-power commercial PEMFC system via an improved grey wolf optimization method" has been published in [Fuel, Volume 357, Part A, Article Number 129589](http://doi.org/10.1016/j.fuel.2023.129589).
+- **August 28-29, 2023**: I attended [Roads to the Future and the E-mobility Day conference days](https://emobilitycentre.se/event/welcome-to-the-roads-to-the-future-and-the-e-mobility-day-conference-days/) held in Kista, Stockholm, organized by the Swedish Electromobility Centre (SEC).
+- **August 19, 2023**: A journal article titled "Ensemble nonlinear model predictive control for residential solar battery energy management," has been published in [IEEE Transactions on Control Systems Technology, volume 31, issue 5, pages 2188-2200](http://doi.org/10.1109/TCST.2023.3291540).
+- **August 10, 2023**: A journal article titled "Nonlinear inversion-based output tracking control for battery fast charging," has been accepted for publication in IEEE Transactions on Control Systems Technology (TCST).
+- **July 10--14, 2023**: I attended [IFAC World Congress 2023](https://www.ifac2023.org/) in Yokohama, Japan. We successfully organized an invited open track and presented two papers.
 - **April 23, 2023**: Our paper "Nonlinear Model Predictive Control for Residential Solar Battery Energy Management" has been accepted by IEEE Transactions on Control Systems Technology.
