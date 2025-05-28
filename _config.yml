@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Li"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "Chalmers University of technology"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "yangli-eee"
+  linkedin         :  # "yangli-eee"
   orcid            : "http://orcid.org/0000-0002-9497-3051"
   pinterest        :
   soundcloud       :
