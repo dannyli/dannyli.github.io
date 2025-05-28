@@ -11,27 +11,27 @@ redirect_from:
 
 Academic Experience
 ------
-* Researcher, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden, 2020-present
-* Associate Professor/Lecturer, School of Automation, Wuhan University of Technology, Wuhan, China, 2019-2020
-* Research Fellow, School of Electrical Engineering and Computer Sciences, Queensland University of Technology, Brisbane, Australia, 2016-2018
-* Research Fellow/Research Associate, Energy Research Institute, Nanyang Technological University, Singapore, 2015-2016
+* **Researcher**, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden, 2020-present
+* **Associate Professor/Lecturer**, School of Automation, Wuhan University of Technology, Wuhan, China, 2019-2020
+* **Research Fellow**, School of Electrical Engineering and Computer Sciences, Queensland University of Technology, Brisbane, Australia, 2016-2018
+* **Research Fellow/Research Associate**, Energy Research Institute, Nanyang Technological University, Singapore, 2015-2016
 
 Educational Qualifications
 ------
-* Ph.D. in Power Engineering, Nanyang Technological University, Singapore, 2015
-* M.Sc. in Power Engineering, Nanyang Technological University, Singapore, 2008
-* B.E. in Electrical Engineering, Wuhan University, 2007
+* **Ph.D.** in Power Engineering, Nanyang Technological University, Singapore, 2015
+* **M.Sc.** in Power Engineering, Nanyang Technological University, Singapore, 2008
+* **B.E.** in Electrical Engineering, Wuhan University, 2007
 
 Editorial Services
 ------
-- Associate Editor, IEEE Transactions on Industry Applications, 2025-present
-- Associate Editor, IEEE Transactions on Energy Conversion, 2023-present
-- Associate Editor, IEEE Transactions on Industrial Electronics, 2022-present
-- Associate Editor, IEEE Transactions on Transportation Electrification, 2022-present
-- Guest Editor, IEEE Transactions on Industry Applications, Special Issue on Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems, 2023-2025
-- Guest Editor, IEEE Journal of Emerging and Seleted Topics in Industrial Electronics, Special Section on  Advanced Modeling, Control, Application and Safety of Energy Storage Systems, 2023-2025
-- Guest Editor, IET Renewable Power Generation, Special Section on Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems, 2023-2024
-- Guest Editor, Applied Energy, Special Issue on Intelligent Energy Storage Systems for Electrified Transportation and Smart Grid, 2021-2022
+- **Associate Editor**, IEEE Transactions on Industry Applications, 2025-present
+- **Associate Editor**, IEEE Transactions on Energy Conversion, 2023-present
+- **Associate Editor**, IEEE Transactions on Industrial Electronics, 2022-present
+- **Associate Editor**, IEEE Transactions on Transportation Electrification, 2022-present
+- **Guest Editor**, IEEE Transactions on Industry Applications, Special Issue on Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems, 2023-2025
+- **Guest Editor**, IEEE Journal of Emerging and Seleted Topics in Industrial Electronics, Special Section on  Advanced Modeling, Control, Application and Safety of Energy Storage Systems, 2023-2025
+- **Guest Editor**, IET Renewable Power Generation, Special Section on Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems, 2023-2024
+- **Guest Editor**, Applied Energy, Special Issue on Intelligent Energy Storage Systems for Electrified Transportation and Smart Grid, 2021-2022
 
 Conference Services
 ------
