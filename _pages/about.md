@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang Li, Ph.D. SMIEEE"
+title: "Yang Li, Ph.D., SMIEEE"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Researcher, Automatic Control research group, [Division of Systems and Control](https://www.chalmers.se/en/departments/e2/research/systems-and-control/), Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
+- Researcher, [Automatic Control research group](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automatic-control/), Division of Systems and Control, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
 - EU Marie Skłodowska-Curie Fellow
 - Associate Editor, IEEE Transactions on Industrial Electronics 
 - Associate Editor, IEEE Transactions on Transportation Electrification
@@ -20,13 +20,24 @@ redirect_from:
 
 Research Interests
 ------
-My main research focus is on the modeling, control, and development of efficient energy conversion processes using energy storage systems for modern power grids and electrified transportation systems. I'm open to any interest in discussion on my research area. 
+My main research focus is on advanced modeling, control, and optimization of energy systems, particularly in battery technologies, renewable integration, and intelligent energy management, specifically:
+
+* **Battery Modeling and Management**
+  Physics-based and data-driven modeling, health diagnostics, state estimation, and fast charging control for lithium-ion, solid-state, and second-life batteries.
+* **Hydrogen and Fuel Cell Technologies**
+  System-level modeling, performance optimization, and degradation assessment of PEM fuel cells and hydrogen production/storage in integrated energy systems.
+* **Energy Storage Systems and Grid Integration**
+  Design and optimization of battery energy storage systems for grid support, frequency control, renewable dispatchability, microgrid applications, and model predictive control for integrated power systems.
+* **AI and Machine Learning for Energy Systems**
+  Application of machine learning, reinforcement learning, and hybrid physics-AI methods in battery/fuel cell state estimation, control, and health/degradation predictive analytics.
+* **Smart Grid and Electrification**
+  Intelligent energy management, smart EV charging, demand response, and infrastructure planning for next-generation electrified and resilient grids.
 
 
 News and Updates
 ------
 - **2025-05-20**: I was appointed as an associate editor for IEEE Transactions on Industry Applications.
-- **2025-05-07**: Our paper titled [Knee-point-conscious battery aging trajectory prediction of lithium-ion based on physics-guided machine learning](publication/J049) has been award a **2024 IEEE Transactions on Transportation Electrification Prize Paper Award**! Congrats!
+- **2025-05-07**: Our paper titled [Knee-point-conscious battery aging trajectory prediction of lithium-ion based on physics-guided machine learning](publication/J049) has been award a <span class="highlight">**2024 IEEE Transactions on Transportation Electrification Prize Paper Award**</span>. Congrats!
 - **2025-04-16**: Our paper titled [Degradation capacity spatial-temporal embedding RUL prediction framework for lithium-ion batteries](publication/J080) has been published at ***IEEE Journal of Emerging and Selected Topics in Industrial Electronics*** [[Link](https://doi.org/10.1109/JESTIE.2025.3561664)]. The paper is collaborated with Chongqing University.
 - **2025-04-15**: Our paper titled [Compatible matching and synergy operation optimization of hydrogen-electric hybrid energy storage system in DC microgrid](publication/J081) has been published at ***Energy Conversion and Management: X*** [[Link](https://doi.org/10.1016/j.ecmx.2025.101014)]. 
 - **2025-04-09**: Our paper titled [Smart electric vehicle charging algorithm to reduce the impact on power grids: A reinforcement learning based methodology](publication/J083) has been published at ***IEEE Open Journal of Vehicular Technology*** [[Link](https://doi.org/10.1109/OJVT.2025.3559237)]. The paper is collaborated with Politecnico di Milano.
@@ -41,7 +52,7 @@ News and Updates
 - **2024-07-23**: Our paper titled [Simulation and experimental study of thermoelectric generators with an axial gradient metal foam heat exchanger](publication/J074) has been published at ***Renewable Energy*** [[Link](https://doi.org/10.1016/j.renene.2024.121061)]. 
 - **2024-06-28**: Our paper titled [Design and optimization of a cascade hydrogen storage system for integrated energy utilization](publication/J078) has been published at ***Journal of Energy Storage*** [[Link](https://doi.org/10.1016/j.est.2024.112732)]. 
 - **2024-06-19**: Our paper titled [Comparison of the frequency response analysis methods in the estimation of state of health to lithium-ion batteries](publication/J069) has been published at ***Energy*** [[Link](https://doi.org/10.1016/j.energy.2024.132077)]. 
-- **2024-05-30**: Our paper titled [Multi-level data-driven battery management: From internal sensing to big data utilization](publication/J055) has been award a **2023 IEEE Transactions on Transportation Electrification Prize Paper Award**! Congrats!
+- **2024-05-30**: Our paper titled [Multi-level data-driven battery management: From internal sensing to big data utilization](publication/J055) has been award a <span class="highlight">**2023 IEEE Transactions on Transportation Electrification Prize Paper Award**</span>. Congrats!
 - **2024-05-30**: Our paper titled [Data-driven state of health estimation method of lithium-ion batteries for partial charging curves](publication/J059) has been published at ***IEEE Transactions on Energy Conversion*** [[Link](https://doi.org/10.1109/TEC.2024.3407136)]. 
 - **2024-05-10**: Our paper titled [Real-time reconfiguration-based all-cell flexibility and capacity maximum utilization of second-life batteries](publication/J068) has been published at ***IEEE Transactions on Transportation Electrification*** [[Link](https://doi.org/10.1109/TTE.2024.3399218)]. 
 - **2024-04-24**: Our paper titled [Multi-time scale scheduling optimization of integrated energy systems considering seasonal hydrogen utilization and multiple demand responses](publication/J077) has been published at ***International Journal of Hydrogen Energy*** [[Link](https://doi.org/10.1016/j.ijhydene.2024.04.125)]. 
