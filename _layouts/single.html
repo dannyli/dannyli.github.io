@@ -51,9 +51,23 @@ layout: default
 
 
 		{% if page.citation %}
-          	<blockquote style="font-size: small; border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9;">
-				Citation: {{ page.citation }}
+          	<blockquote class="quote-box" id="quoteText">
+			Citation: {{ page.citation }} [<a href="#" onclick="copyQuote()">Copy</a>]
 			</blockquote>
+
+		<script>
+		  function copyQuote() {
+		    const text1 = document.getElementById("quoteText").innerText;
+			text2 = text1.slice(0, -6);
+			text = text2.slice(9);
+		    navigator.clipboard.writeText(text).then(() => {
+		      alert("Copied!");
+		    }, () => {
+		      alert("Failed!");
+		    });
+		  }
+		</script>
+
         {% endif %}
 
         
