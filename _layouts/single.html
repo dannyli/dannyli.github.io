@@ -35,25 +35,28 @@ layout: default
         {% endif %}
 
  	{% if page.author %}	
-          <p>Authored by {{page.author}}</p>
+          <p>{{page.author}}</p>
 	{% endif %}
        
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          <p>Published in <i><b>{{ page.venue }}</b></i>, {{ page.date | default: "1900-01-01" | date: "%B %-d, %Y" }} </p>
+          <p>Published in <i><b>{{ page.venue }}</b></i>, {{ page.date | default: "1900-01-01" | date: "%B %-d, %Y" }} 
+		  {% if page.doi %}[<a href="https://doi.org/{{ page.doi }}">Link</a>]{% endif %}
+		  </p>
         {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time> 
+		  </p>
         {% endif %}
-        
 
-             
-        {% if page.citation and page.paperurl %}
-          <p>Citation: {{ page.citation }} <a href="{{ page.paperurl }}">{{ page.paperurl }}</a></p>
-        {% elsif page.citation %}
-          <p>Citation: {{ page.citation }} </p>
+
+		{% if page.citation %}
+          	<blockquote style="font-size: small; border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9;">
+				Citation: {{ page.citation }}
+			</blockquote>
         {% endif %}
-    
+
+        
         </header>
       {% endunless %}
 
@@ -63,13 +66,16 @@ layout: default
       </section>
 
       <footer class="page__meta">
-        {% if page.wos %}<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:{{ page.wos }}">Web of Science</a>{% endif %}
-        {% if page.scopus %}<a href="https://www.scopus.com/record/display.uri?eid={{ page.scopus }}">Scopus</a>{% endif %}
-        {% if page.researchgate %}<a href="https://www.researchgate.net/publication/{{ page.researchgate }}">ResearchGate</a>{% endif %}
-	{% if page.dimensions %}<a href="https://app.dimensions.ai/details/publication/{{ page.dimensions }}">Dimensions.ai</a>{% endif %}
-	{% if page.semantic %}<a href="https://app.dimensions.ai/details/publication/{{ page.semantic }}">SemanticScholar</a>{% endif %}
-	{% if page.ieee %}<a href="https://ieeexplore.ieee.org/document/{{ page.ieee }}">IEEE</a>{% endif %}
-	{% if page.chalmers %}<a href="https://www.semanticscholar.org/paper/{{ page.chalmers }}">Chalmers</a>{% endif %}
+
+		{% if page.citation and page.paperurl %}[<a href="{{ page.paperurl }}">PDF Download</a>]{% endif %}
+		{% if page.doi %}[<a href="https://doi.org/{{ page.doi }}">DOI</a>]{% endif %}
+        {% if page.wos %}[<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:{{ page.wos }}">Web of Science</a>]{% endif %}
+        {% if page.scopus %}[<a href="https://www.scopus.com/record/display.uri?eid={{ page.scopus }}">Scopus</a>]{% endif %}
+        {% if page.researchgate %}[<a href="https://www.researchgate.net/publication/{{ page.researchgate }}">ResearchGate</a>]{% endif %}
+		{% if page.dimensions %}<a href="https://app.dimensions.ai/details/publication/{{ page.dimensions }}">Dimensions.ai</a>{% endif %}
+		{% if page.semantic %}<a href="https://app.dimensions.ai/details/publication/{{ page.semantic }}">SemanticScholar</a>{% endif %}
+		{% if page.ieee %}<a href="https://ieeexplore.ieee.org/document/{{ page.ieee }}">IEEE</a>{% endif %}
+		{% if page.chalmers %}<a href="https://www.semanticscholar.org/paper/{{ page.chalmers }}">Chalmers</a>{% endif %}
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
