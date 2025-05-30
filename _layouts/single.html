@@ -84,7 +84,7 @@ layout: default
 		{% if page.citation and page.paperurl %}[<a href="{{ page.paperurl }}">PDF Download</a>]{% endif %}
 		{% if page.doi %}[<a href="https://doi.org/{{ page.doi }}">DOI</a>]{% endif %}
         {% if page.wos %}[<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:{{ page.wos }}">Web of Science</a>]{% endif %}
-        {% if page.scopus %}[<a href="https://www.scopus.com/record/display.uri?eid={{ page.scopus }}">Scopus</a>]{% endif %}
+        {% if page.scopus %}[<a href="https://www.scopus.com/record/display.uri?eid={{ page.scopus }}&origin=recordpage">Scopus</a>]{% endif %}
         {% if page.researchgate %}[<a href="https://www.researchgate.net/publication/{{ page.researchgate }}">ResearchGate</a>]{% endif %}
 		{% if page.dimensions %}<a href="https://app.dimensions.ai/details/publication/{{ page.dimensions }}">Dimensions.ai</a>{% endif %}
 		{% if page.semantic %}<a href="https://app.dimensions.ai/details/publication/{{ page.semantic }}">SemanticScholar</a>{% endif %}
