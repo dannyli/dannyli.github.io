@@ -15,9 +15,9 @@ url                      : https://yangli.se # the base hostname & protocol for 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dannyli/dannyli.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -85,9 +85,9 @@ author:
   bio              : "Research and Life"
   location         : "Gothenburg, Sweden"
   employer         : "Chalmers University of Technology"
-  googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=Q9wJWuIAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Q9wJWuIAAAAJ"
   email            :
-  researchgate     : # "https://www.researchgate.net/profile/Yang-Li-93"
+  researchgate     : "https://www.researchgate.net/profile/Yang-Li-93"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :  # "yangli-eee"
+  linkedin         :   "yangli-eee"
   orcid            : "http://orcid.org/0000-0002-9497-3051"
   pinterest        :
   soundcloud       :
