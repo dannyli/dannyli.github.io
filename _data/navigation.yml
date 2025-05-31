@@ -4,8 +4,8 @@ main:
   - title: "Bio"
     url: /biography/
 
-  - title: "Team"
-    url: /members/
+#  - title: "Team"
+#    url: /members/
 
   - title: "Publications"
     url: /publications/
