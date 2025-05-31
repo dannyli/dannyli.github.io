@@ -24,12 +24,13 @@ Educational Qualifications
 
 Editorial Services
 ------
-- **Associate Editor**, IEEE Transactions on Industry Applications, 2025-present
-- **Associate Editor**, IEEE Transactions on Energy Conversion, 2023-present
-- **Associate Editor**, IEEE Transactions on Industrial Electronics, 2022-present
-- **Associate Editor**, IEEE Transactions on Transportation Electrification, 2022-present
+- **Associate Editor**, [IEEE Transactions on Industry Applications](https://ias.ieee.org/publications/ieee-transactions-on-industry-applications/), 2025-present
+- **Associate Editor**, [IEEE Transactions on Energy Conversion](https://ieee-pes.org/publications/transactions-on-energy-conversion/), 2023-present
+- **Associate Editor**, [IEEE Transactions on Industrial Electronics](https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics), 2022-present
+- **Associate Editor**, [IEEE Transactions on Transportation Electrification](https://www.ieee-pels.org/publications/transactions-on-transportation-electrification/), 2022-present
+- **Associate Editor**, [IEEE PES Letters](https://ieee-pes.org/publications/pes-letters/), 2023-present
 - **Guest Editor**, IEEE Transactions on Industry Applications, Special Issue on Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems, 2023-2025
-- **Guest Editor**, IEEE Journal of Emerging and Seleted Topics in Industrial Electronics, Special Section on  Advanced Modeling, Control, Application and Safety of Energy Storage Systems, 2023-2025
+- **Guest Editor**, [IEEE Journal of Emerging and Seleted Topics in Industrial Electronics](https://www.ieee-ies.org/pubs/jestie), Special Section on  Advanced Modeling, Control, Application and Safety of Energy Storage Systems, 2023-2025
 - **Guest Editor**, IET Renewable Power Generation, Special Section on Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems, 2023-2024
 - **Guest Editor**, Applied Energy, Special Issue on Intelligent Energy Storage Systems for Electrified Transportation and Smart Grid, 2021-2022
 
