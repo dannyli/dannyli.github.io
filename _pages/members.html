@@ -1,0 +1,40 @@
+---
+layout: archive
+title: "Our Team"
+permalink: /members/
+author_profile: false
+---
+
+{% include base_path %}
+
+
+Faculty
+
+<div class="grid-table">
+<div class="grid-cell">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <img src='{{ post.photo  | default: "/images/500x300.png"  }}'>
+    <h2 class="archive__member-title" itemprop="headline">
+        <a href="/biography/" rel="permalink">Yang Li</a>
+    </h2>    
+
+    <p class="archive__item-excerpt" itemprop="description"> PI</p> 
+
+  </article>
+</div>
+{% for post in site.members %}
+  {% if post.member_type == 'faculty'%}
+    {% include archive-single-member.html %}
+  {% endif %}
+{% endfor %}
+</div>
+
+PhD Students
+<div class="grid-table">
+{% for post in site.members %}
+  {% if post.member_type == 'phd_student'%}
+    {% include archive-single-member.html %}
+  {% endif %}
+{% endfor %}
+</div>

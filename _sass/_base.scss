@@ -350,3 +350,14 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     .copy-btn:hover {
       background-color: #ddd;
     }
+
+.grid-table {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 columns per row */
+  gap: 10px; 
+}
+.grid-cell {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}

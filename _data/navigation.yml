@@ -1,8 +1,11 @@
 # main links links
 main:
 
-  - title: "Biography"
+  - title: "Bio"
     url: /biography/
+
+  - title: "Team"
+    url: /members/
 
   - title: "Publications"
     url: /publications/
