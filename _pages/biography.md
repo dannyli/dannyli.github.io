@@ -29,16 +29,15 @@ Editorial Services
 - **Associate Editor**, [IEEE Transactions on Industrial Electronics](https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics), 2022-present
 - **Associate Editor**, [IEEE Transactions on Transportation Electrification](https://www.ieee-pels.org/publications/transactions-on-transportation-electrification/), 2022-present
 - **Associate Editor**, [IEEE Power Engineering Letters](https://ieee-pes.org/publications/pes-letters/), 2023-present
-- **Guest Editor**, IEEE Transactions on Industry Applications, Special Issue on Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems, 2023-2025
-- **Guest Editor**, [IEEE Journal of Emerging and Seleted Topics in Industrial Electronics](https://www.ieee-ies.org/pubs/jestie), Special Section on  Advanced Modeling, Control, Application and Safety of Energy Storage Systems, 2023-2025
-- **Guest Editor**, IET Renewable Power Generation, Special Section on Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems, 2023-2024
+- **Guest Editor**, IEEE Transactions on Industry Applications, Special Issue on [Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems](https://ieeexplore.ieee.org/document/10945656), 2023-2025
+- **Guest Editor**, [IEEE Journal of Emerging and Selected Topics in Industrial Electronics](https://www.ieee-ies.org/pubs/jestie), Special Section on [Advanced Modeling, Control, Application and Safety of Energy Storage Systems](https://iten.ieee-ies.org/announcement/2024/jestie-special-section-on-advanced-modeling-control-applications-and-safety-of-energy-storage-systems/), 2024-2025
+- **Guest Editor**, [IET Renewable Power Generation](https://ietresearch.onlinelibrary.wiley.com/journal/17521424), Special Issue on [Smart Energy Storage System Management for Renewable Energy Integration](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17521424/homepage/call-for-papers/si-2023-000609), 2023-2024
 - **Guest Editor**, Applied Energy, Special Issue on Intelligent Energy Storage Systems for Electrified Transportation and Smart Grid, 2021-2022
 
 Conference Services
 ------
 * IEEE IECON
-	* Technical Track Chair, 2025
-	* Technical Track Chair, 2024
+	* Technical Track Chair, [2024 (Chicago)](https://www.iecon-2024.org/), [2025 (Madrid)](https://iecon2025.org/)
 	* Session Chair, 2023
 * IEEE SPEC
 	* TPC Co-Chair, 2024
