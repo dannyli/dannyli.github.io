@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "yangli.se"
 title_separator          : "-"
 name                     : &name "Home"
 description              : &description "Chalmers University of technology"
