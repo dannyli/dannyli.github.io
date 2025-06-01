@@ -50,7 +50,7 @@ Awards and Fellowships
 *  **Best Paper Award**, IEEE Transactions on Transportation Electrification, 2023, 2024
 *  **Star Reviewer**, IEEE Transactions on Energy Conversion, 2023
 *  **Distinguished Reviewer**, IEEE Transactions on Industrial Electronics, 2022
-*  **Marie Skłodowska-Curie Actions Individual (MSCA-IF) Fellowship**, European Commission, 2020
+*  **Marie Skłodowska-Curie Actions Individual Fellowship (MSCA-IF)**, European Commission, 2020
 *  **Best Paper Award**, 4th IEEE International Conference on Intelligent Green Building and Smart Grid, 2019
 
 Publications

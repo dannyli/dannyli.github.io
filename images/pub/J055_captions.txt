@@ -1,0 +1,12 @@
+Fig. 1. Architecture of commonly-used battery management system (BMS).
+Fig. 2. Data-driven management with multi-level data utilization: from the internal sensing to the battery big data.
+Fig. 3. Diagram of data-driven-based battery state estimation.
+Fig. 4. General framework of the deep reinforcement learning (DRL)-based maximum power estimation methods.
+Fig. 5. Framework of electrochemical-thermal-NN model for joint estimation of battery SoC and inner temperature [32].
+Fig. 6. Diagram of data-driven based battery ageing trend prediction.
+Fig. 7. Hybrid data-driven model combining GPR and LSTM to predict lithium-ion battery future capacities and lifetime with uncertainty quantification [73].
+Fig. 8. Categories and representative sensors for battery monitoring.
+Fig. 9. A conceptual design of future self-sensing smart battery.
+Fig. 10. Battery health diagnosis based on big data.
+Fig. 11. General components and structure of big data platform.
+Fig. 12. Key technologies towards a high-speed big data platform.
