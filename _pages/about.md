@@ -10,10 +10,6 @@ redirect_from:
 
 - Researcher, [Automatic Control research group](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automatic-control/), Division of Systems and Control, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
 - EU Marie Skłodowska-Curie Fellow
-- Associate Editor, IEEE Transactions on Industrial Electronics 
-- Associate Editor, IEEE Transactions on Transportation Electrification
-- Associate Editor, IEEE Transactions on Energy Conversion 
-- Associate Editor, IEEE Transactions on Industry Applications
 - Email: yangli [at] ieee.org, yang.li [at] chalmers.se
 - Telephone: +46 (0) 31 772 1557 
 - Address: Horsalsvagen 11, 412 58 Gothenburg, Sweden
@@ -36,7 +32,6 @@ My main research focus is on advanced modeling, control, and optimization of ene
 
 News and Updates
 ------
-- **2025-05-20**: I was appointed as an associate editor for IEEE Transactions on Industry Applications.
 - **2025-05-07**: Our paper titled [Knee-point-conscious battery aging trajectory prediction of lithium-ion based on physics-guided machine learning](publication/J049) has been award a <span class="highlight">**2024 IEEE Transactions on Transportation Electrification Prize Paper Award**</span>. Congrats!
 - **2025-04-16**: Our paper titled [Degradation capacity spatial-temporal embedding RUL prediction framework for lithium-ion batteries](publication/J080) has been published at ***IEEE Journal of Emerging and Selected Topics in Industrial Electronics*** [[Link](https://doi.org/10.1109/JESTIE.2025.3561664)]. The paper is collaborated with Chongqing University.
 - **2025-04-15**: Our paper titled [Compatible matching and synergy operation optimization of hydrogen-electric hybrid energy storage system in DC microgrid](publication/J081) has been published at ***Energy Conversion and Management: X*** [[Link](https://doi.org/10.1016/j.ecmx.2025.101014)]. 
