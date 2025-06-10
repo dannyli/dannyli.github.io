@@ -44,6 +44,10 @@ Conference Services
 * IFAC World Congress
 	* Special Session Chair, 2023
 
+Reviewer for Journals
+------
+[The full list of journals](/biography-journal-list-as-a-reviewer/)
+
 Awards and Fellowships
 ------
 *  **World's Top 2% Scientists**, Stanford, 2023, 2024
