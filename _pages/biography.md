@@ -46,7 +46,12 @@ Conference Services
 
 Reviewer for Journals
 ------
-[The full list of journals](/biography-journal-list-as-a-reviewer/)
+- IEEE TIE/TII/JESTIE/OJ-IES/IEM/TMECH
+- IEEE TTE/TPEL/OJ-PEL
+- IEEE TEC/TSTE/TPWRS/TSG
+- IEEE TIA/OJ-IA
+- IEEE TAC/TCST/L-CSS
+- IEEE TVT/TIV/T-ITS/OJ-VT
 
 Awards and Fellowships
 ------
