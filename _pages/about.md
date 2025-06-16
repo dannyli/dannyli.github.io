@@ -27,11 +27,12 @@ My main research focus is on advanced modeling, control, and optimization of ene
 * **AI and Machine Learning for Energy Systems**
   Application of machine learning, reinforcement learning, and hybrid physics-AI methods in battery/fuel cell state estimation, control, and health/degradation predictive analytics.
 * **Smart Grid and Electrification**
-  Intelligent energy management, smart EV charging, demand response, and infrastructure planning for next-generation electrified and resilient grids.
+  Intelligent energy management, smart EV charging, demand response, and infrastructure planning for next-generation electrified transportation systems and resilient grids.
 
 
 News and Updates
 ------
+- **2025-06-16**: Our paper titled [Smart health evaluation for lithium-ion battery with super-short-segment charging](publication/J086) has been published at ***Advanced Science*** [[Link](https://doi.org/10.1002/advs.202503583)].  
 - **2025-05-07**: Our paper titled [Knee-point-conscious battery aging trajectory prediction of lithium-ion based on physics-guided machine learning](publication/J049) has been award a <span class="highlight">**2024 IEEE Transactions on Transportation Electrification Prize Paper Award**</span>. Congrats!
 - **2025-04-16**: Our paper titled [Degradation capacity spatial-temporal embedding RUL prediction framework for lithium-ion batteries](publication/J080) has been published at ***IEEE Journal of Emerging and Selected Topics in Industrial Electronics*** [[Link](https://doi.org/10.1109/JESTIE.2025.3561664)]. The paper is collaborated with Chongqing University.
 - **2025-04-15**: Our paper titled [Compatible matching and synergy operation optimization of hydrogen-electric hybrid energy storage system in DC microgrid](publication/J081) has been published at ***Energy Conversion and Management: X*** [[Link](https://doi.org/10.1016/j.ecmx.2025.101014)]. 
