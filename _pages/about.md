@@ -32,8 +32,8 @@ My main research focus is on advanced modeling, control, and optimization of ene
 
 News and Updates
 ------
-- **2025-06-17**: Our paper titled [A systematic study of pipe and electrical connections for multi-stack vanadium redox flow battery modules considering electrolyte transport delays](publication/J087) has been published at ***Chemical Engineering Journal*** [[Link](https://doi.org/10.1016/j.cej.2025.164929)]. 
-- **2025-06-16**: Our paper titled [Smart health evaluation for lithium-ion battery with super-short-segment charging](publication/J086) has been published at ***Advanced Science*** [[Link](https://doi.org/10.1002/advs.202503583)].  
+- **2025-07-27**: Our paper titled [Smart health evaluation for lithium-ion battery with super-short-segment charging](publication/J065) has been published at ***Advanced Science*** [[Link](https://doi.org/10.1002/advs.202503583)]. 
+- **2025-06-17**: Our paper titled [A systematic study of pipe and electrical connections for multi-stack vanadium redox flow battery modules considering electrolyte transport delays](publication/J087) has been published at ***Chemical Engineering Journal*** [[Link](https://doi.org/10.1016/j.cej.2025.164929)].  
 - **2025-05-07**: Our paper titled [Knee-point-conscious battery aging trajectory prediction of lithium-ion based on physics-guided machine learning](publication/J049) has been award a <span class="highlight">**2024 IEEE Transactions on Transportation Electrification Prize Paper Award**</span>. Congrats!
 - **2025-04-16**: Our paper titled [Degradation capacity spatial-temporal embedding RUL prediction framework for lithium-ion batteries](publication/J080) has been published at ***IEEE Journal of Emerging and Selected Topics in Industrial Electronics*** [[Link](https://doi.org/10.1109/JESTIE.2025.3561664)]. The paper is collaborated with Chongqing University.
 - **2025-04-15**: Our paper titled [Compatible matching and synergy operation optimization of hydrogen-electric hybrid energy storage system in DC microgrid](publication/J081) has been published at ***Energy Conversion and Management: X*** [[Link](https://doi.org/10.1016/j.ecmx.2025.101014)]. 
