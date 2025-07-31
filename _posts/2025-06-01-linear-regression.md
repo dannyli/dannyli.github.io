@@ -210,7 +210,7 @@ $$
 \mathbf{X}^{\top} (\mathbf{X} \boldsymbol{\theta} - \mathbf{y}) = 0
 $$
 
-其解为正规方程
+其解为
 
 $$
  \boldsymbol{\theta} = (\mathbf{X}^{\top} \mathbf{X})^{-1} \mathbf{X}^{\top}  \mathbf{y}  
@@ -321,6 +321,12 @@ $$
 可推出其正规方程为
 
 $$
+(\mathbf{X}^{\top} \mathbf{W} \mathbf{X}) \boldsymbol{\theta} =  \mathbf{X}^{\top} \mathbf{W} \mathbf{y}  
+$$
+
+对应的解为
+
+$$
  \boldsymbol{\theta} = (\mathbf{X}^{\top} \mathbf{W} \mathbf{X})^{-1} \mathbf{X}^{\top} \mathbf{W} \mathbf{y}  
 $$
 
@@ -342,6 +348,12 @@ $$ w^{(i)}(\mathbf{x}) = \exp{\left( -\frac{\Vert \mathbf{x} - \mathbf{x}^{(i)} 
 加权最小二乘法不采用同方差性假设，但是需要假设误差之间独立。如果不采用同方差性假设，误差之间也可能相关，并且可以用协方差矩阵 $\mathbf{\Omega}$ 描述误差之间的关系，则得到广义最小二乘法（Generalized Least Squares, GLS）：
 
 $$
+(\mathbf{X}^{\top} \mathbf{\Omega}^{-1} \mathbf{X}) \boldsymbol{\theta} =  \mathbf{X}^{\top} \mathbf{\Omega}^{-1} \mathbf{y}  
+$$
+
+即
+
+$$
  \boldsymbol{\theta} = (\mathbf{X}^{\top} \mathbf{\Omega}^{-1} \mathbf{X})^{-1} \mathbf{X}^{\top} \mathbf{\Omega}^{-1} \mathbf{y}  
 $$
 
@@ -359,6 +371,12 @@ $$
 $$
 
 其中 $\lambda$ 称为正则化强度。其正规方程为
+
+$$
+ (\mathbf{X}^{\top}  \mathbf{X} + \lambda \mathbf{I})  \boldsymbol{\theta} =\mathbf{X}^{\top} \mathbf{y}  
+$$
+
+即
 
 $$
  \boldsymbol{\theta} = (\mathbf{X}^{\top}  \mathbf{X} + \lambda \mathbf{I})^{-1} \mathbf{X}^{\top} \mathbf{y}  
