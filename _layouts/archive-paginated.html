@@ -67,7 +67,7 @@ layout: default
         {% endif %}
       {% endfor %}
 
-      {% if paginator.page < paginator.total_pages-2 %}
+      {% if paginator.page < (paginator.total_pages - 2) %}
         <a class="last" href="{{ paginator.last_page_path }}">{{ paginator.total_pages }}</a>
       {% endif %}
 
