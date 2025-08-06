@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+
+<style>
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 1em;
+}
+
+.page-number,
+.first,
+.last {
+  padding: 3px 7px;
+  border: 1px solid #ddd;
+  text-decoration: none;
+  border-radius: 2px;
+  color: #00787b;
+}
+
+.page-number.current {
+  background-color: #00787b;
+  color: white;
+  font-weight: bold;
+}
+</style>
+
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+
+    {{ content }}
+
+    {% for post in paginator.posts %}
+      {% include archive-single.html post=post %}
+    {% endfor %}
+
+    <div class="pagination">
+
+      {% if paginator.page > 3 %}
+        <a class="first" href="{{ paginator.first_page_path }}">1</a>
+      {% endif %}
+
+      {% for trail in paginator.page_trail %}
+        {% if trail.num == paginator.page %}
+          <span class="page-number current">{{ trail.num }}</span>
+        {% else %}
+          <a class="page-number" href="{{ trail.path }}">{{ trail.num }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if paginator.page < paginator.total_pages-2 %}
+        <a class="last" href="{{ paginator.last_page_path }}">{{ paginator.total_pages }}</a>
+      {% endif %}
+
+    </div>
+  </div>
+</div>
