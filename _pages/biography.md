@@ -62,13 +62,14 @@ Awards and Fellowships
 *  **Marie Skłodowska-Curie Actions Individual Fellowship (MSCA-IF)**, European Commission, 2020
 *  **Best Paper Award**, 4th IEEE International Conference on Intelligent Green Building and Smart Grid, 2019
 
+<!--
 Publications
 ------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!--Talks
+Talks
 ------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
