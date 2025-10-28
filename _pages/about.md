@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+ 
 - Researcher, [Automatic Control research group](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automatic-control/), Division of Systems and Control, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
 - EU Marie Skłodowska-Curie Fellow
 - Email: yangli [at] ieee.org, yang.li [at] chalmers.se
@@ -32,6 +32,9 @@ My main research focus is on advanced modeling, control, and optimization of ene
 
 News and Updates
 ------
+- **2025-10-24**: Our paper titled [Asymmetric variable flow-rate control enhances capacity and efficiency in vanadium redox flow batteries](publication/J082) has been published at ***Journal of Energy Storage*** [[Link](https://doi.org/10.1016/j.est.2025.118954)]. 
+- **2025-10-19**: Our paper titled [A fast non-gradient solution framework for P2D model of lithium-ion batteries](publication/J084) has been published in ***Journal of Power Sources*** [[Link](https://doi.org/10.1016/j.jpowsour.2025.238591)]. 
+- **2025-10-17**: The special issue we organized: Advanced Modeling, Control, Applications, and Safety of Energy Storage Systems in ***IEEE Journal of Emerging and Selected Topics in Industrial Electronics***, has been published in Volume 6, Issue 4.[[Guest Editorial](https://doi.org/10.1109/JESTIE.2025.3600467)]. 
 - **2025-07-27**: Our paper titled [Smart health evaluation for lithium-ion battery with super-short-segment charging](publication/J065) has been published in ***Advanced Science*** [[Link](https://doi.org/10.1002/advs.202503583)]. 
 - **2025-06-17**: Our paper titled [A systematic study of pipe and electrical connections for multi-stack vanadium redox flow battery modules considering electrolyte transport delays](publication/J079) has been published in ***Chemical Engineering Journal*** [[Link](https://doi.org/10.1016/j.cej.2025.164929)].  
 - **2025-05-07**: Our paper titled [Knee-point-conscious battery aging trajectory prediction of lithium-ion based on physics-guided machine learning](publication/J049) has been award a <span class="highlight">**2024 IEEE Transactions on Transportation Electrification Prize Paper Award**</span>. Congrats!
