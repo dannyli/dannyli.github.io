@@ -19,8 +19,8 @@ redirect_from:
 ------
 * 51st Annual Conference of the IEEE Industrial Electronics Society, 14-17 October, 2025, Madrid, Spain
 * [2026 IEEE 35th International Symposium on Industrial Electronics (ISIE 2026)](https://attend.ieee.org/isie-2026/), Nagoya, Japan, 23-26 June, 2026
-* [2025 IEEE 24th International Conference on Industrial Informatics](https://indin2026.ieee-ies.org/), Melbourne, Australia, 27-29 July, 2025
-* [52nd Annual Conference of the IEEE Industrial Electronics Society](https://www.iecon2026.org/), Doha, Qatar, 18-21 October, 2026 (subject to change) 
+* [2025 IEEE 24th International Conference on Industrial Informatics (INDIN 2026)](https://indin2026.ieee-ies.org/), Melbourne, Australia, 27-29 July, 2026
+* [52nd Annual Conference of the IEEE Industrial Electronics Society (IECON 2026)](https://www.iecon2026.org/), Doha, Qatar, 18-21 October, 2026 (subject to change) 
 
 [PES Conferences](https://ieee-pes.org/events/upcoming-events/)
 ------
