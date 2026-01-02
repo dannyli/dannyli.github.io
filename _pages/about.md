@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
+
 - Researcher, [Automatic Control research group](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automatic-control/), Division of Systems and Control, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
 - EU Marie Skłodowska-Curie Fellow
 - Email: yangli [at] ieee.org, yang.li [at] chalmers.se
@@ -32,6 +32,7 @@ My main research focus is on advanced modeling, control, and optimization of ene
 
 News and Updates
 ------
+- **2025-12-29**: Our paper titled [Reliable cross-domain lifetime prediction for fuel cells: A time-frequency fusion transfer learning architecture](publication/J087) has been published at ***Energy*** [[Link](https://doi.org/10.1016/j.energy.2025.139854)]. 
 - **2025-10-24**: Our paper titled [Asymmetric variable flow-rate control enhances capacity and efficiency in vanadium redox flow batteries](publication/J082) has been published at ***Journal of Energy Storage*** [[Link](https://doi.org/10.1016/j.est.2025.118954)]. 
 - **2025-10-19**: Our paper titled [A fast non-gradient solution framework for P2D model of lithium-ion batteries](publication/J084) has been published in ***Journal of Power Sources*** [[Link](https://doi.org/10.1016/j.jpowsour.2025.238591)]. 
 - **2025-10-17**: The special issue we organized: Advanced Modeling, Control, Applications, and Safety of Energy Storage Systems in ***IEEE Journal of Emerging and Selected Topics in Industrial Electronics***, has been published in Volume 6, Issue 4.[[Guest Editorial](https://doi.org/10.1109/JESTIE.2025.3600467)]. 
@@ -104,7 +105,6 @@ smart charging and vehicle-to-everything (V2X) ](https://sites.google.com/view/i
 - **2021-01-12**: Our paper titled [Faulted feeder identification based on active adjustment of arc suppression coil and similarity measure of zero-sequence currents](publication/J019) has been published in ***IEEE Transactions on Power Delivery*** [[Link](https://doi.org/10.1109/TPWRD.2021.3051040)]. 
 - **2020-12-03**: Our paper titled [Dispatch planning of wide-area wind power-energy storage scheme based on ensemble empirical mode decomposition technique](publication/J018) has been published in ***IEEE Transactions on Sustainable Energy*** [[Link](https://doi.org/10.1109/TSTE.2020.3042385)]. 
 - **2020-02-18**: Our paper titled [Constrained ensemble Kalman filter for distributed electrochemical state estimation of lithium-ion batteries](publication/J017) has been published in ***IEEE Transactions on Industrial Informatics*** [[Link](https://doi.org/10.1109/TII.2020.2974907)].  
-
 
 
 
