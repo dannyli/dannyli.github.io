@@ -33,6 +33,7 @@ My main research focus is on advanced modeling, control, and optimization of ene
 News and Updates
 ------
 - **2025-12-29**: Our paper titled [Reliable cross-domain lifetime prediction for fuel cells: A time-frequency fusion transfer learning architecture](publication/J087) has been published at ***Energy*** [[Link](https://doi.org/10.1016/j.energy.2025.139854)]. 
+- **2025-12-23**: Our paper titled [Hierarchical energy management and control strategy of hydrogen-electricity coupled DC microgrids](publication/J085) has been published at ***Journal of Modern Power Systems and Clean Energy*** [[Link](https://doi.org/10.35833/MPCE.2025.000381)]. 
 - **2025-10-24**: Our paper titled [Asymmetric variable flow-rate control enhances capacity and efficiency in vanadium redox flow batteries](publication/J082) has been published at ***Journal of Energy Storage*** [[Link](https://doi.org/10.1016/j.est.2025.118954)]. 
 - **2025-10-19**: Our paper titled [A fast non-gradient solution framework for P2D model of lithium-ion batteries](publication/J084) has been published in ***Journal of Power Sources*** [[Link](https://doi.org/10.1016/j.jpowsour.2025.238591)]. 
 - **2025-10-17**: The special issue we organized: Advanced Modeling, Control, Applications, and Safety of Energy Storage Systems in ***IEEE Journal of Emerging and Selected Topics in Industrial Electronics***, has been published in Volume 6, Issue 4.[[Guest Editorial](https://doi.org/10.1109/JESTIE.2025.3600467)]. 
