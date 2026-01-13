@@ -29,7 +29,7 @@ Editorial Services
 - **Associate Editor**, [IEEE Transactions on Industrial Electronics](https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics), 2022-present
 - **Associate Editor**, [IEEE Transactions on Transportation Electrification](https://www.ieee-pels.org/publications/transactions-on-transportation-electrification/), 2022-present
 - **Associate Editor**, [IEEE Power Engineering Letters](https://ieee-pes.org/publications/pes-letters/), 2023-present
-- **Guest Editor**, IEEE Transactions on Industry Applications, Special Issue on [Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems](https://ieeexplore.ieee.org/document/10945656), 2023-2025
+- **Guest Editor**, [IEEE Transactions on Industry Applications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=28), Special Issue on [Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems](https://ieeexplore.ieee.org/document/10945656), 2023-2025
 - **Guest Editor**, [IEEE Journal of Emerging and Selected Topics in Industrial Electronics](https://www.ieee-ies.org/pubs/jestie), Special Section on [Advanced Modeling, Control, Application and Safety of Energy Storage Systems](https://iten.ieee-ies.org/announcement/2024/jestie-special-section-on-advanced-modeling-control-applications-and-safety-of-energy-storage-systems/), 2024-2025
 - **Guest Editor**, [IET Renewable Power Generation](https://ietresearch.onlinelibrary.wiley.com/journal/17521424), Special Issue on [Smart Energy Storage System Management for Renewable Energy Integration](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17521424/homepage/call-for-papers/si-2023-000609), 2023-2024
 - **Guest Editor**, Applied Energy, Special Issue on Intelligent Energy Storage Systems for Electrified Transportation and Smart Grid, 2021-2022
@@ -47,8 +47,8 @@ Conference Services
 Reviewer for Journals
 ------
 - IEEE TIE/TII/JESTIE/OJ-IES/IEM/TMECH
-- IEEE TPEL/TTE/JESTPE/OJ-PEL
-- IEEE TEC/TSTE/TPWRS/TSG
+- IEEE TPEL/JESTPE/TTE/OJ-PEL
+- IEEE TEC/TSTE/TSG/TPWRS/TPWRD
 - IEEE TIA/OJ-IA
 - IEEE TAC/TCST/L-CSS
 - IEEE TVT/TIV/T-ITS/OJ-VT
@@ -68,11 +68,11 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
  -->  
-  
+
