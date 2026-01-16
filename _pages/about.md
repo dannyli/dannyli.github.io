@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yang Li, Ph.D., SMIEEE"
+title: "Yang Li (李旸), Ph.D., SMIEEE"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-- Researcher, [Automatic Control research group](https://www.chalmers.se/en/departments/e2/research/systems-and-control/automatic-control/), Division of Systems and Control, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
+- Professor, School of Electrical Engineering and Automation, Wuhan University, China
+- Researcher, Division of Systems and Control, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
 - EU Marie Skłodowska-Curie Fellow
 - Email: yangli [at] ieee.org, yang.li [at] chalmers.se
-- Telephone: +46 (0) 31 772 1557 
-- Address: Horsalsvagen 11, 412 58 Gothenburg, Sweden
 
 Research Interests
 ------
