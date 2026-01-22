@@ -189,6 +189,9 @@ collections:
   members:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -237,6 +240,15 @@ defaults:
       author_profile: false
       share: false
       comment: false
+  # _notes
+  - scope:
+      path: ""
+      type: notes  
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comment: false      
   # _portfolio
   - scope:
       path: ""
