@@ -1,7 +1,7 @@
 ---
 title: '线性回归 Linear Regression'
 date: 2025-06-01
-permalink: /posts/2025/06/linear-regression/
+permalink: /posts/linear-regression/
 tags:
   - optimizer
   - machine learning
