@@ -1,32 +1,67 @@
-%% 
+clear all
+close all
 
 % Frequency range
-f = logspace(-2, 5, 800);   % Hz
+f_exponent_h = 3;
+f_exponent_l = -2;
+
+f = logspace(f_exponent_l, f_exponent_h, 500);   % Hz
 w = 2*pi*f;
+s = 1j*w;
 
-% -------- R || CPE #1 (High-frequency arc) --------
-R1 = 2;          % Ohm
-Q1 = 5e-3;       % S*s^alpha
-alpha1 = 0.85;
+% different a
 
-Z1 = 1 ./ (1/R1 + Q1*(1j*w).^alpha1);
+a = 0.5;
+Q = 1;
 
-% -------- R || CPE #2 (Low-frequency arc) --------
-R2 = 6;          % Ohm
-Q2 = 2e-5;       % S*s^alpha
-alpha2 = 0.75;
-
-Z2 = 1 ./ (1/R2 + Q2*(1j*w).^alpha2);
-
-% -------- Total impedance (series) --------
-Z_total = Z1 + Z2;
-
-% -------- Nyquist plot --------
-figure
-plot(real(Z_total), -imag(Z_total), 'LineWidth', 2)
-grid on
+figure(1)
 axis equal
-xlabel('Z'' (\Omega)')
-ylabel('-Z'''' (\Omega)')
-title('Nyquist Plot: (R_1 || CPE_1) + (R_2 || CPE_2)')
+% set(gcf, 'Position', [50 50 1200 500])
+% subplot(1,2,1)
+grid on
+
+hold on
+% for a = alphas
+%     Z = 1 ./ (Q * (1j*w).^a);
+%     plot(real(Z), -imag(Z), 'LineWidth', 2, ...
+%          'DisplayName', ['$\alpha$ = ' num2str(a)])
+% end
+Z0 = 1 ./ (Q * (1j*w).^a);
+Z1 = coth(sqrt(s))./sqrt(s);
+Z2 = 2*coth(2*sqrt(s))./(2*sqrt(s));
+Z3 = 3*coth(3*sqrt(s))./(3*sqrt(s));
+plot(real(Z1), -imag(Z1), 'LineWidth', 2, ...
+         'DisplayName', ['$L = 1$'])
+plot(real(Z2), -imag(Z2), 'LineWidth', 2, ...
+         'DisplayName', ['$L = 2$'])
+plot(real(Z3), -imag(Z3), 'LineWidth', 2, ...
+         'DisplayName', ['$L = 3$'])
+plot(real(Z0), -imag(Z0), 'LineWidth', 2, ...
+         'DisplayName', ['$L = \infty$'])
+
+xlabel('$Z'' (\Omega)$','interpreter','latex')
+ylabel('$-Z'''' (\Omega)$','interpreter','latex')
+legend('interpreter','latex') 
+
+axis([0 2 0 2])
+% figure(2)
+% subplot(2,1,1)
+% ax = gca;
+% ax.XScale = 'log';
+% ax.YScale = 'log';
+% hold on
+% loglog(f, abs(Z0))
+% loglog(f, abs(Z1))
+% loglog(f, abs(Z2))
+% loglog(f, abs(Z3))
+% 
+% subplot(2,1,2)
+% ax = gca;
+% ax.XScale = 'log';
+% ax.YScale = 'log';
+% hold on
+% semilogx(f, angle(Z0)*180/pi)
+% semilogx(f, angle(Z1)*180/pi)
+% semilogx(f, angle(Z2)*180/pi)
+% semilogx(f, angle(Z3)*180/pi)
 

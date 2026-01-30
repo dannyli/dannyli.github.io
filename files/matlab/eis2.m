@@ -3,99 +3,64 @@ close all
 
 % Frequency range
 f_exponent_h = 3;
-f_exponent_l = -1;
+f_exponent_l = -2;
 
 f = logspace(f_exponent_l, f_exponent_h, 500);   % Hz
 w = 2*pi*f;
-R = 0.01;
+s = 1j*w;
 
 % different a
 
-alphas = [0.1 0.25 0.5  0.75 1];
+a = 0.5;
 Q = 1;
 
-figure
-set(gcf, 'Position', [50 50 1200 500])
-subplot(1,2,1)
+figure(1)
+axis equal
+% set(gcf, 'Position', [50 50 1200 500])
+% subplot(1,2,1)
+grid on
 
 hold on
-for a = alphas
-    Z = 1 ./ (1/R + Q*(1j*w).^a);
+% for a = alphas
 %     Z = 1 ./ (Q * (1j*w).^a);
-    plot(real(Z), -imag(Z), 'LineWidth', 2, ...
-         'DisplayName', ['$\alpha$ = ' num2str(a)])
-end
-axis equal
-grid on
+%     plot(real(Z), -imag(Z), 'LineWidth', 2, ...
+%          'DisplayName', ['$\alpha$ = ' num2str(a)])
+% end
+Z0 = 1 ./ (Q * (1j*w).^a);
+Z1 = tanh(sqrt(s))./sqrt(s);
+Z2 = 2*tanh(2*sqrt(s))./(2*sqrt(s));
+Z3 = 3*tanh(3*sqrt(s))./(3*sqrt(s));
 
-% LF 
-
-a = linspace(0.01,1,100);
-f = 10^(f_exponent_l);
-w = 2*pi*f;
-
-Z = 1 ./ (1/R + Q*(1j*w).^a);
-plot(real(Z), -imag(Z), 'k--', 'LineWidth', 2, ...
-         'DisplayName', ['$\omega = 2 \pi \times 10^{' num2str(f_exponent_l) '}$'])
+plot(real(Z1), -imag(Z1), 'LineWidth', 2, ...
+         'DisplayName', ['$L = 1$'])
+plot(real(Z2), -imag(Z2), 'LineWidth', 2, ...
+         'DisplayName', ['$L = 2$'])
+plot(real(Z3), -imag(Z3), 'LineWidth', 2, ...
+         'DisplayName', ['$L = 3$'])
+plot(real(Z0), -imag(Z0), 'LineWidth', 2, ...
+         'DisplayName', ['$L = \infty$'])
      
-% HF 
-f = 10^(f_exponent_h);
-w = 2*pi*f;
+xlabel('$Z'' (\Omega)$','interpreter','latex')
+ylabel('$-Z'''' (\Omega)$','interpreter','latex')
+legend('interpreter','latex') 
+% figure(2)
+% subplot(2,1,1)
+% ax = gca;
+% ax.XScale = 'log';
+% ax.YScale = 'log';
+% hold on
+% loglog(f, abs(Z0))
+% loglog(f, abs(Z1))
+% loglog(f, abs(Z2))
+% loglog(f, abs(Z3))
+% 
+% subplot(2,1,2)
+% ax = gca;
+% ax.XScale = 'log';
+% ax.YScale = 'log';
+% hold on
+% semilogx(f, angle(Z0)*180/pi)
+% semilogx(f, angle(Z1)*180/pi)
+% semilogx(f, angle(Z2)*180/pi)
+% semilogx(f, angle(Z3)*180/pi)
 
-Z = 1 ./ (1/R + Q*(1j*w).^a);
-plot(real(Z), -imag(Z), 'g--', 'LineWidth', 2, ...
-         'DisplayName', ['$\omega = 2 \pi \times 10^{' num2str(f_exponent_h) '}$'])
-     
-legend show
-grid on
-xlabel('$Z'' (\Omega)$')
-ylabel('$-Z'''' (\Omega)$')
-legend 
-axis equal
-title('Nyquist Plot for Different R-CPE Exponents')
-
-%%
-
-% Frequency range
-f = logspace(-2, 5, 500);   % Hz
-w = 2*pi*f;
-
-% CPE parameters
-
-% CPE impedance
-% Z = 1 ./ (Q * (1j*w).^alpha);
-% alphas = [0.75 1];
-
-% figure
-
-subplot(2,2,2)
-ax = gca;
-ax.XScale = 'log';
-ax.YScale = 'log';
-hold on
-for a = alphas
-    Z = 1 ./ (1/R + Q*(1j*w).^a);
-    loglog(f, abs(Z), 'LineWidth', 2, ...
-         'DisplayName', ['$\alpha$ = ' num2str(a)])
-end
-
-get(gca,'XScale'), get(gca,'YScale')
-
-grid on
-ylabel('$|Z|$ ($\Omega$)')
-title('Bode Plot of CPE')
-
-subplot(2,2,4)
-ax = gca;
-ax.XScale = 'log';
-ax.YScale = 'log';
-hold on
-for a = alphas
-    Z = 1 ./ (1/R + Q*(1j*w).^a);
-    semilogx(f, angle(Z)*180/pi, 'LineWidth', 2, ...
-         'DisplayName', ['$\alpha$ = ' num2str(a)])
-end
-
-grid on
-xlabel('Frequency (Hz)')
-ylabel('Phase (deg)')
