@@ -16,7 +16,7 @@ Q = 1;
 
 figure(1)
 axis equal
-% set(gcf, 'Position', [50 50 1200 500])
+set(gcf, 'Position', [50 50 500 500])
 % subplot(1,2,1)
 grid on
 
@@ -42,7 +42,10 @@ plot(real(Z0), -imag(Z0), 'LineWidth', 2, ...
      
 xlabel('$Z'' (\Omega)$','interpreter','latex')
 ylabel('$-Z'''' (\Omega)$','interpreter','latex')
-legend('interpreter','latex') 
+axis([0 3 0 3])
+legend show
+legend('location','best')
+% legend('interpreter','latex') 
 % figure(2)
 % subplot(2,1,1)
 % ax = gca;
