@@ -34,6 +34,7 @@ News and Updates
 
 ### 2026
 
+- **2026-02-04**: Our paper titled [Optimal operation of off-grid integrated hydrogen energy utilization systems: Life-cycle cost reduction considering waste heat recovery](publication/J088) has been published at ***Journal of Energy Storage*** [[Link](https://doi.org/10.1016/j.est.2026.120819)]. 
 - **2026-01-29**: Our paper titled [Physics-informed nonlinear extension techniques for robust joint state estimation of Li-ion batteries](publication/J086) has been published at ***IEEE Transactions on Industrial Electronics*** [[Link](https://doi.org/10.1109/TIE.2026.3651401)]. 
 
 ### 2025
