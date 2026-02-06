@@ -8,7 +8,14 @@ A = [0 1; -2 -3];       % State matrix
 B = [0; 1];             % Input matrix
 Q = eye(2);             % State weighting
 R = 1;                  % Input weighting
+
+
+[K, P_inf, eigVals] = lqr(A, B, Q, R);  % Compute optimal feedback gain
+
+
 S = 10 * eye(2);        % Terminal state cost matrix
+% S = P_inf;
+
 
 t0 = 0; tf = 10;        % Time interval
 x0 = [1; 0];            % Initial state

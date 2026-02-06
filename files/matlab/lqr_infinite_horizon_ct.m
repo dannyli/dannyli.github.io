@@ -41,21 +41,40 @@ f = @(t, x) A_cl * x;  % Anonymous function for ODE solver
 % --------------------------------------
 U = -X * K';           % Each row of X multiplied by -K
 
+for n = 1:length(t)
+V(n) =0.5*X(n,:)*P*X(n,:)';
+l(:,n) = P*X(n,:)';
+end
 % --------------------------------------
 % 7. Plot results
 % --------------------------------------
 figure;
-
-subplot(2,1,1);
+set(gcf, 'position', [50 50 1000 500])
+subplot(2,2,1);
 plot(t, X(:,1), 'r-', 'LineWidth', 2); hold on;
 plot(t, X(:,2), 'b--', 'LineWidth', 2);
-xlabel('Time t'); ylabel('State $x(t)$');
+xlabel('Time $t$'); ylabel('State $x(t)$');
 legend('$x_1$','$x_2$');
 title('LQR Closed-Loop State Response');
 grid on;
 
-subplot(2,1,2);
+subplot(2,2,2);
 plot(t, U, 'k-', 'LineWidth', 2);
 xlabel('Time $t$'); ylabel('Control input $u(t)$');
 title('LQR Control Input');
 grid on;
+
+subplot(2,2,3);
+plot(t,V, 'k-', 'LineWidth', 2)
+xlabel('Time $t$'); ylabel('Value $V(t)$');
+title('LQR Value Function');
+grid on
+
+subplot(2,2,4);
+hold on
+plot(t,l(1,:)', 'r-', 'LineWidth', 2)
+plot(t,l(2,:)', 'b--', 'LineWidth', 2)
+xlabel('Time $t$'); ylabel('Costate $\lambda(t)$');
+legend('$\lambda_1$','$\lambda_2$');
+title('LQR Costate');
+grid on
