@@ -42,9 +42,10 @@ f = @(t, x) A_cl * x;  % Anonymous function for ODE solver
 U = -X * K';           % Each row of X multiplied by -K
 
 for n = 1:length(t)
-V(n) =0.5*X(n,:)*P*X(n,:)';
-l(:,n) = P*X(n,:)';
+V(n) =X(n,:)*P*X(n,:)';
+l(:,n) = 2*P*X(n,:)';
 end
+
 % --------------------------------------
 % 7. Plot results
 % --------------------------------------
