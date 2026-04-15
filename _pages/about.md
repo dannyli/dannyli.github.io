@@ -34,6 +34,8 @@ News and Updates
 
 ### 2026
 
+- **2026-04-15**: Our paper titled [Modeling, control, and safety of hybrid energy storage systems in microgrids](publication/J094) has been published at ***Journal of Energy Storage*** [[Link](https://doi.org/10.1016/j.est.2026.122218)]. 
+- **2026-04-13**: Our paper titled [A GPT-powered automated feature extraction framework for state of health estimation of fast-charging batteries](publication/J093) has been published at ***IEEE Transactions on Transportation Electrification*** [[Link](https://doi.org/10.1109/TTE.2026.3683190)]. 
 - **2026-03-21**: Our paper titled [Low-frequency consensus knowledge transfer in PEM fuel cells for cross-domain online degradation prediction](publication/J090) has been published at ***Green Energy and Intelligent Transportation*** [[Link](https://doi.org/10.1016/j.geits.2026.100405)]. 
 - **2026-02-24**: Our paper titled [BMINN: Learning chemical potentials and parameters from voltage data for multi-phase battery modeling](publication/J091) has been published at ***Energy Storage Materials*** [[Link](https://doi.org/10.1016/j.ensm.2026.104997)]. 
 - **2026-02-08**: Our paper titled [A two-stage distributionally robust optimization approach for integrated energy systems: Coordinated configuration of CCUS and hydrogen utilization](publication/J089) has been published at ***Energy*** [[Link](https://doi.org/10.1016/j.energy.2026.140331)]. 
