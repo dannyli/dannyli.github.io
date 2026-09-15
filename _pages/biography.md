@@ -11,7 +11,8 @@ redirect_from:
 
 Academic Experience
 ------
-* **Researcher**, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden, 2020-present
+* **Professor**, School of Electrical Engineering and Automation, Wuhan, China, 2025-present
+* **Researcher**, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden, 2020-2025
 * **Associate Professor/Lecturer**, School of Automation, Wuhan University of Technology, Wuhan, China, 2019-2020
 * **Research Fellow**, School of Electrical Engineering and Computer Sciences, Queensland University of Technology, Brisbane, Australia, 2016-2018
 * **Research Fellow/Research Associate**, Energy Research Institute, Nanyang Technological University, Singapore, 2015-2016
@@ -26,9 +27,9 @@ Editorial Services
 ------
 - **Associate Editor**, [IEEE Transactions on Industry Applications](https://ias.ieee.org/publications/ieee-transactions-on-industry-applications/), 2025-present
 - **Associate Editor**, [IEEE Transactions on Energy Conversion](https://ieee-pes.org/publications/transactions-on-energy-conversion/), 2023-present
+- **Associate Editor**, [IEEE Power Engineering Letters](https://ieee-pes.org/publications/pes-letters/), 2023-present
 - **Associate Editor**, [IEEE Transactions on Industrial Electronics](https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics), 2022-present
 - **Associate Editor**, [IEEE Transactions on Transportation Electrification](https://www.ieee-pels.org/publications/transactions-on-transportation-electrification/), 2022-present
-- **Associate Editor**, [IEEE Power Engineering Letters](https://ieee-pes.org/publications/pes-letters/), 2023-present
 - **Guest Editor**, [IEEE Transactions on Industry Applications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=28), Special Issue on [Advanced and Innovative Control Technologies for Grid-Resilience-Enhancing Energy Storage Systems](https://ieeexplore.ieee.org/document/10945656), 2023-2025
 - **Guest Editor**, [IEEE Journal of Emerging and Selected Topics in Industrial Electronics](https://www.ieee-ies.org/pubs/jestie), Special Section on [Advanced Modeling, Control, Application and Safety of Energy Storage Systems](https://iten.ieee-ies.org/announcement/2024/jestie-special-section-on-advanced-modeling-control-applications-and-safety-of-energy-storage-systems/), 2024-2025
 - **Guest Editor**, [IET Renewable Power Generation](https://ietresearch.onlinelibrary.wiley.com/journal/17521424), Special Issue on [Smart Energy Storage System Management for Renewable Energy Integration](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17521424/homepage/call-for-papers/si-2023-000609), 2023-2024
@@ -36,13 +37,15 @@ Editorial Services
 
 Conference Services
 ------
+* IEEE ISGT-Asia 
+  * Technical Track Chair, 2026
 * IEEE IECON
-	* Technical Track Chair, [2024 (Chicago)](https://www.iecon-2024.org/), [2025 (Madrid)](https://iecon2025.org/)
-	* Session Chair, 2023
+  * Technical Track Chair, [2024 (Chicago)](https://www.iecon-2024.org/), [2025 (Madrid)](https://iecon2025.org/)
+  * Session Chair, 2023
 * IEEE SPEC
-	* TPC Co-Chair, 2024
+  * TPC Co-Chair, 2024
 * IFAC World Congress
-	* Special Session Chair, 2023
+  * Special Session Chair, 2023
 
 Reviewer for Journals
 ------
@@ -50,7 +53,7 @@ Reviewer for Journals
 - IEEE TPEL/JESTPE/TTE/OJ-PEL
 - IEEE TEC/TSTE/TSG/TPWRS/TPWRD
 - IEEE TIA/OJ-IA
-- IEEE TAC/TCST/L-CSS
+- IEEE TAC/TCST/TCNS/L-CSS
 - IEEE TVT/TIV/T-ITS/OJ-VT
 
 Awards and Fellowships

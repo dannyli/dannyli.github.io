@@ -34,6 +34,8 @@ News and Updates
 
 ### 2026
 
+- **2026-08-01**: Our paper titled [Remaining useful life prediction of vehicle-level fuel cells based on self-attention gated recurrent unit modeling](publication/J100) has been published at ***Journal of Power Sources*** [[Link](https://doi.org/10.1016/j.jpowsour.2026.241053)]. 
+
 - **2026-07-06**: Our paper titled [SOH-disparity-aware energy management for multi-stack fuel cells using enhanced soft actor critic reinforcement learning](publication/J099) has been published at ***IEEE Transactions on Transportation Electrification*** [[Link](https://doi.org/10.1109/TTE.2026.3710578)]. 
 
 - **2026-05-10**: Our paper titled [Pump fault diagnosis for vanadium redox flow batteries using an optimized smoothing-based graph convolutional network](publication/J098) has been published at ***Reliability Engineering & System Safety*** [[Link](https://doi.org/10.1016/j.ress.2026.112863)]. 
