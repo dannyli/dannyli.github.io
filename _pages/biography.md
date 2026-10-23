@@ -25,7 +25,6 @@ Educational Qualifications
 
 Editorial Services
 ------
-- **Associate Editor**, [IEEE Transactions on Industry Applications](https://ias.ieee.org/publications/ieee-transactions-on-industry-applications/), 2025-present
 - **Associate Editor**, [IEEE Transactions on Energy Conversion](https://ieee-pes.org/publications/transactions-on-energy-conversion/), 2023-present
 - **Associate Editor**, [IEEE Power Engineering Letters](https://ieee-pes.org/publications/pes-letters/), 2023-present
 - **Associate Editor**, [IEEE Transactions on Industrial Electronics](https://www.ieee-ies.org/pubs/transactions-on-industrial-electronics), 2022-present
@@ -38,7 +37,7 @@ Editorial Services
 Conference Services
 ------
 * IEEE ISGT-Asia 
-  * Technical Track Chair, 2026
+  * Registration Chair, Technical Track Chair, [2026 (Wuhan)](https://attend.ieee.org/isgt-asia-2026/)
 * IEEE IECON
   * Technical Track Chair, [2024 (Chicago)](https://www.iecon-2024.org/), [2025 (Madrid)](https://iecon2025.org/)
   * Session Chair, 2023
@@ -50,7 +49,7 @@ Conference Services
 Reviewer for Journals
 ------
 - IEEE TIE/TII/JESTIE/OJ-IES/IEM/TMECH
-- IEEE TPEL/JESTPE/TTE/OJ-PEL
+- IEEE TPEL/TTE/JESTPE/OJ-PEL
 - IEEE TEC/TSTE/TSG/TPWRS/TPWRD
 - IEEE TIA/OJ-IA
 - IEEE TAC/TCST/TCNS/L-CSS

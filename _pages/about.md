@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 - Professor, School of Electrical Engineering and Automation, Wuhan University, China
-- Researcher, Division of Systems and Control, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden. 
-- EU Marie Skłodowska-Curie Fellow
-- Email: yangli [at] ieee.org, yang.li [at] chalmers.se
+- Previously with Chalmers University of Technology, Sweden/Wuhan University of Technology, China/Queensland University of Technology, Australia/Nanyang Technological University, Singapore. 
+- IEEE Senior Member, EU Marie Skłodowska-Curie Fellow (MSCA-IF)
+- Email: yangli [at] ieee.org
 
 Research Interests
 ------
@@ -35,6 +35,8 @@ News and Updates
 ### 2026
 
 - **2026-09-29**: Our paper titled [A novel transient zero-dimensional physics-based model of vanadium redox flow batteries with electrolyte crossover-induced capacity fade](publication/J101) has been published at ***Applied Energy*** [[Link](https://doi.org/10.1016/j.apenergy.2026.128942)]. 
+
+- **2026-09-01**: Our book chapter titled [Fuel cells and batteries for electrified transportation](publication/BC001) has been published online [[Link](https://doi.org/10.1016/B978-0-443-29210-1.00108-4)]. It is part of the book [***Encyclopedia of Renewable Energy Engineering***](https://www.sciencedirect.com/referencework/9780443292118/encyclopedia-of-renewable-energy-engineering) edited by Professor Frede Blaabjerg.
 
 - **2026-08-01**: Our paper titled [Remaining useful life prediction of vehicle-level fuel cells based on self-attention gated recurrent unit modeling](publication/J100) has been published at ***Journal of Power Sources*** [[Link](https://doi.org/10.1016/j.jpowsour.2026.241053)]. 
 
