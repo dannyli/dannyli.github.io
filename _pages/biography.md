@@ -11,7 +11,7 @@ redirect_from:
 
 Academic Experience
 ------
-* **Professor**, School of Electrical Engineering and Automation, Wuhan, China, 2025-present
+* **Professor**, School of Electrical Engineering, Wuhan, China, 2025-present
 * **Researcher**, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden, 2020-2025
 * **Associate Professor/Lecturer**, School of Automation, Wuhan University of Technology, Wuhan, China, 2019-2020
 * **Research Fellow**, School of Electrical Engineering and Computer Sciences, Queensland University of Technology, Brisbane, Australia, 2016-2018

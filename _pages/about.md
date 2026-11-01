@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-- Professor, School of Electrical Engineering and Automation, Wuhan University, China
-- Previously with Chalmers University of Technology, Sweden/Wuhan University of Technology, China/Queensland University of Technology, Australia/Nanyang Technological University, Singapore. 
+- Professor, School of Electrical Engineering, Wuhan University, China
+- Previous Affiliation: Chalmers University of Technology, Sweden/Wuhan University of Technology, China/Queensland University of Technology, Australia/Nanyang Technological University, Singapore. 
 - IEEE Senior Member, EU Marie Skłodowska-Curie Fellow (MSCA-IF)
 - Email: yangli [at] ieee.org
 
@@ -33,6 +33,8 @@ News and Updates
 ------
 
 ### 2026
+
+- **2026-10-26**: Our paper titled [A method for quantifying fuel cell degradation power loss mechanisms based on an identifiability-driven physics-informed neural network](publication/J102) has been published at ***Energy*** [[Link](https://doi.org/10.1016/j.energy.2026.142937)]. 
 
 - **2026-09-29**: Our paper titled [A novel transient zero-dimensional physics-based model of vanadium redox flow batteries with electrolyte crossover-induced capacity fade](publication/J101) has been published at ***Applied Energy*** [[Link](https://doi.org/10.1016/j.apenergy.2026.128942)]. 
 
